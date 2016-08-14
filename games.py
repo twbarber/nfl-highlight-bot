@@ -7,8 +7,24 @@ NFL_LIVE_GAME_INDEX_URL = "http://www.nfl.com/liveupdate/scorestrip/ss.xml"
 NFL_VIDEO_BASE_URL = "http://www.nfl.com/feeds-rs/videos/byGameCenter/{0}.json"
 
 
+class Video:
+
+    def __init__(self, id_, desc, url):
+        self.id_ = id_
+        self.desc = desc
+        self.url = url
+
+    def __str__(self):
+        return self.id_ + " - " + self.desc + "\n" + self.url
+
+
 def game_is_today(game_id):
     return str(game_id[:-2]) == str((datetime.today() - timedelta(1)).strftime('%Y%m%d'))
+
+
+def get_highest_bitrate_clip(clips):
+    bitrated = sorted(clips["videoBitRates"], key=lambda video: video["bitrate"], reverse=True)
+    return bitrated[0]["videoPath"]
 
 response_xml = urllib.request.urlopen(NFL_LIVE_GAME_INDEX_URL).read()
 
@@ -20,7 +36,5 @@ for game in (x for x in games if game_is_today(x.get("eid"))):
     data = json.loads(string)
     in_game_highlights = filter(lambda x: x["clipType"] == "in-game-highlight", data["videos"])
     for video in in_game_highlights:
-            print(str(video["id"] + " " + video["headline"]))
-            bitrated = sorted(video["videoBitRates"], key=lambda video: video["bitrate"], reverse=True)
-            print(bitrated[0]["videoPath"])
-
+        current = Video(video["id"], video["headline"], get_highest_bitrate_clip(video))
+        print(str(current))
