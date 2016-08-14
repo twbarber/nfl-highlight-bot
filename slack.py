@@ -2,6 +2,7 @@ import os
 import time
 from slackclient import SlackClient
 import games
+from games import Video
 import random
 
 """
@@ -19,9 +20,7 @@ slack_client = SlackClient(os.environ.get('SLACK_BOT_TOKEN'))
 def handle_command(command, channel):
     if command.startswith(EXAMPLE_COMMAND):
         highlights = games.get_highlight_list()
-        chosen = random.choice(highlights)
-        print(str(chosen))
-        response = str(chosen)
+        response = format_clip(random.choice(highlights))
     else:
         response = "Suspended!"
     slack_client.api_call("chat.postMessage", channel=channel,
@@ -37,6 +36,10 @@ def parse_slack_output(slack_rtm_output):
                 return output['text'].split(AT_BOT)[1].strip().lower(), \
                        output['channel']
     return None, None
+
+
+def format_clip(clip: Video):
+    return "<{0}|{1}>".format(clip.url, clip.desc)
 
 
 if __name__ == "__main__":
