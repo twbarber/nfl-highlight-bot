@@ -1,6 +1,8 @@
 import os
 import time
 from slackclient import SlackClient
+import games
+import random
 
 """
 Base logic taken from https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
@@ -9,13 +11,19 @@ Base logic taken from https://www.fullstackpython.com/blog/build-first-slack-bot
 BOT_ID = os.environ.get("BOT_ID")
 
 AT_BOT = "<@" + BOT_ID + ">:"
-EXAMPLE_COMMAND = "do"
+EXAMPLE_COMMAND = "highlight"
 
 slack_client = SlackClient(os.environ.get('SLACK_BOT_TOKEN'))
 
 
 def handle_command(command, channel):
-    response = "Suspended!"
+    if command.startswith(EXAMPLE_COMMAND):
+        highlights = games.get_highlight_list()
+        chosen = random.choice(highlights)
+        print(str(chosen))
+        response = str(chosen)
+    else:
+        response = "Suspended!"
     slack_client.api_call("chat.postMessage", channel=channel,
                           text=response, as_user=True)
 
