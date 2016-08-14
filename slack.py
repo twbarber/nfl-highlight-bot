@@ -1,8 +1,9 @@
 import os
 import time
 from slackclient import SlackClient
-import games
-from games import Video
+
+from nfl_highlight_bot import get_highlight_list
+from videos import Video
 import random
 
 """
@@ -19,8 +20,11 @@ slack_client = SlackClient(os.environ.get('SLACK_BOT_TOKEN'))
 
 def handle_command(command, channel):
     if command.startswith(EXAMPLE_COMMAND):
-        highlights = games.get_highlight_list()
-        response = format_clip(random.choice(highlights))
+        highlights = get_highlight_list()
+        if len(highlights) > 0:
+            response = format_clip(random.choice(highlights))
+        else:
+            response = "Sorry, no highlights have been posted today."
     else:
         response = "Suspended!"
     slack_client.api_call("chat.postMessage", channel=channel,
