@@ -1,0 +1,1691 @@
+{
+  "total": 11,
+  "limit": 10,
+  "offset": 0,
+  "videos": [
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000684084",
+      "playId": null,
+      "originalPublishDate": 1471014240000,
+      "modifiedDate": 1471014255000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "game-highlight",
+      "runTime": null,
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": false,
+      "recommendable": false,
+      "briefHeadline": "Panthers vs. Ravens highlights",
+      "contentCategory": null,
+      "headline": "Preseason Week 1: Panthers vs. Ravens highlights",
+      "caption": "The Carolina Panthers take on the Baltimore Ravens in week one of the 2016 preseason.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000684084/Panthers-vs-Ravens-highlights",
+      "videoFileUrl": "http://video.nfl.com/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684084_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684084_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684084_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684084_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684084_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_3200k.mp4",
+          "bitrate": 3200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_5000k.mp4",
+          "bitrate": 5000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "nfl-preseason",
+          "channelName": "Preseason"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        },
+        {
+          "channelId": "carolina-panthers",
+          "channelName": "Carolina Panthers"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        },
+        {
+          "season": 2016,
+          "teamId": "0750",
+          "abbr": "CAR",
+          "cityState": "Carolina",
+          "fullName": "Carolina Panthers",
+          "nick": "Panthers",
+          "teamType": "TEAM",
+          "conferenceAbbr": "NFC",
+          "divisionAbbr": "NCS"
+        }
+      ],
+      "eventCodes": [
+        {
+          "code": "pre-season",
+          "decode": "Preseason"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "syndicated partners",
+          "position": null
+        }
+      ],
+      "properties": [
+        "NFL"
+      ],
+      "eventOccurredDate": 1470999840000,
+      "closedCaptionFileUrl": null,
+      "entitlement": "FREE",
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/vodzilla/21791/160811_PWK1_CAR_BAL_NEW_FINAL-20160811_210255757_,180k,320k,500k,700k,1200k,2000k,3200k,5000k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000684067",
+      "playId": null,
+      "originalPublishDate": 1470974280000,
+      "modifiedDate": 1470980995000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "game-highlight",
+      "runTime": "00:01:30:00",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": false,
+      "recommendable": false,
+      "briefHeadline": "Terrance West highlights",
+      "contentCategory": null,
+      "headline": "Preseason Week 1: Terrance West highlights",
+      "caption": "Baltimore Ravens running back Terrance West ran for two touchdowns in a powerful performance against the Carolina Panthers during Week 1 of the preseason.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/baltimore-ravens/0ap3000000684067/Terrance-West-highlights",
+      "videoFileUrl": "http://video.nfl.com/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684067_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684067_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684067_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684067_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000684067_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "baltimore-ravens",
+        "channelName": "Baltimore Ravens"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_3200k.mp4",
+          "bitrate": 3200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_5000k.mp4",
+          "bitrate": 5000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "nfl-preseason",
+          "channelName": "Preseason"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "eventCodes": [
+        {
+          "code": "pre-season",
+          "decode": "Preseason"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 2543664,
+          "status": "ACT",
+          "displayName": "Terrance West",
+          "firstName": "Terrance",
+          "lastName": "West",
+          "esbId": "WES395447",
+          "gsisId": "00-0031375"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Terrance West",
+          "position": null
+        },
+        {
+          "contentId": null,
+          "contentTag": "syndicated partners",
+          "position": null
+        }
+      ],
+      "properties": [
+        "NFL"
+      ],
+      "eventOccurredDate": 1470998760000,
+      "closedCaptionFileUrl": null,
+      "entitlement": "FREE",
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/vodzilla/21782/160811_Terrence_West_Highlight-20160811_204244350_,180k,320k,500k,700k,1200k,2000k,3200k,5000k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683930",
+      "playId": 2848,
+      "originalPublishDate": 1470966600000,
+      "modifiedDate": 1470966910000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:10:22",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Josh Johnson connects with Nick Boyle for 29 yards",
+      "contentCategory": null,
+      "headline": "Ravens Josh Johnson connects with Nick Boyle for 29 yards",
+      "caption": "Ravens Josh Johnson connects with Nick Boyle for 29 yards.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683930/Josh-Johnson-connects-with-Nick-Boyle-for-29-yards",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683930_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683930_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683930_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683930_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683930_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "nfl-preseason",
+          "channelName": "Preseason"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "eventCodes": [
+        {
+          "code": "pre-season",
+          "decode": "Preseason"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 264,
+          "status": "ACT",
+          "displayName": "Josh Johnson",
+          "firstName": "Josh",
+          "lastName": "Johnson",
+          "esbId": "JOH000001",
+          "gsisId": "00-0026300"
+        },
+        {
+          "nflId": 2552402,
+          "status": "ACT",
+          "displayName": "Nick Boyle",
+          "firstName": "Nick",
+          "lastName": "Boyle",
+          "esbId": "BOY688993",
+          "gsisId": "00-0031598"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Josh Johnson",
+          "position": null
+        },
+        {
+          "contentId": null,
+          "contentTag": "Nick Boyle",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "entitlement": "FREE",
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Ravens_568059_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683912",
+      "playId": 2457,
+      "originalPublishDate": 1470966060000,
+      "modifiedDate": 1470966234000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:14:13",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Josh Johnson connects with Nick Boyle for a two-point conversion",
+      "contentCategory": null,
+      "headline": "Ravens Josh Johnson connects with Nick Boyle for a two-point conversion",
+      "caption": "Ravens Josh Johnson connects with Nick Boyle for a two point conversion.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683912/Josh-Johnson-connects-with-Nick-Boyle-for-a-two-point-conversion",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683912_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683912_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683912_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683912_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683912_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 264,
+          "status": "ACT",
+          "displayName": "Josh Johnson",
+          "firstName": "Josh",
+          "lastName": "Johnson",
+          "esbId": "JOH000001",
+          "gsisId": "00-0026300"
+        },
+        {
+          "nflId": 2552402,
+          "status": "ACT",
+          "displayName": "Nick Boyle",
+          "firstName": "Nick",
+          "lastName": "Boyle",
+          "esbId": "BOY688993",
+          "gsisId": "00-0031598"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Nick Boyle",
+          "position": null
+        },
+        {
+          "contentId": null,
+          "contentTag": "Josh Johnson",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Johnson_Boyle_Two_point_568045_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683898",
+      "playId": 2430,
+      "originalPublishDate": 1470965400000,
+      "modifiedDate": 1470968669000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:12:03",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "West speeds to the outside for TD",
+      "contentCategory": null,
+      "headline": "Terrance West speeds to the outside for preseason touchdown",
+      "caption": "Baltimore Ravens running back Terrance West speeds to the outside to bypass a hoard of Carolina Panthers defenders for a touchdown in Week 1 of the preseason.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683898/West-speeds-to-the-outside-for-TD",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683898_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683898_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683898_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683898_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683898_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 2543664,
+          "status": "ACT",
+          "displayName": "Terrance West",
+          "firstName": "Terrance",
+          "lastName": "West",
+          "esbId": "WES395447",
+          "gsisId": "00-0031375"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Terrance West",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_Ravens_West_TD_568034_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683869",
+      "playId": 2104,
+      "originalPublishDate": 1470963900000,
+      "modifiedDate": 1470964399000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:15:23",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Graham Gano hits a 31-yard field goal before the end of the half",
+      "contentCategory": null,
+      "headline": "Panthers Graham Gano hits a 31-yard field goal before the end of the half",
+      "caption": "Panthers Graham Gano hits a 31-yard field goal before the end of the half",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683869/Graham-Gano-hits-a-31-yard-field-goal-before-the-end-of-the-half",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683869_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683869_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683869_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683869_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683869_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "carolina-panthers",
+          "channelName": "Carolina Panthers"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0750",
+          "abbr": "CAR",
+          "cityState": "Carolina",
+          "fullName": "Carolina Panthers",
+          "nick": "Panthers",
+          "teamType": "TEAM",
+          "conferenceAbbr": "NFC",
+          "divisionAbbr": "NCS"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 71309,
+          "status": "ACT",
+          "displayName": "Graham Gano",
+          "firstName": "Graham",
+          "lastName": "Gano",
+          "esbId": "GAN308500",
+          "gsisId": "00-0026858"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Graham Gano",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_NOW/in-game-highlight/NFLCOM/PRE/1/160811_Gano_Fieldgoal_Good_568002_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683861",
+      "playId": 1806,
+      "originalPublishDate": 1470963540000,
+      "modifiedDate": 1470963733000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:12:27",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Ryan Mallett connects with Javorius Allen for 19-yard touchdown",
+      "contentCategory": null,
+      "headline": "Ravens Ryan Mallett connects with Javorius Allen for 19-yard touchdown",
+      "caption": "Ravens Ryan Mallett connects with Javorius Allen for 19-yard touchdown.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683861/Ryan-Mallett-connects-with-Javorius-Allen-for-19-yard-touchdown",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683861_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683861_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683861_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683861_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683861_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 2552631,
+          "status": "ACT",
+          "displayName": "Javorius Allen",
+          "firstName": "Javorius",
+          "lastName": "Allen",
+          "esbId": "ALL469092",
+          "gsisId": "00-0031577"
+        },
+        {
+          "nflId": 2495443,
+          "status": "ACT",
+          "displayName": "Ryan Mallett",
+          "firstName": "Ryan",
+          "lastName": "Mallett",
+          "esbId": "MAL262949",
+          "gsisId": "00-0028012"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Javorius Allen",
+          "position": null
+        },
+        {
+          "contentId": null,
+          "contentTag": "Ryan Mallett",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_BAL_Mallett_Allen_TD_19_567994_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683812",
+      "playId": 1126,
+      "originalPublishDate": 1470961500000,
+      "modifiedDate": 1470961815000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:09:11",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Terrance West leaps over the pile for a touchdown",
+      "contentCategory": null,
+      "headline": "Ravens Terrance West leaps over the pile for a touchdown",
+      "caption": "Ravens running back Terrance West leaps over the pile for a touchdown.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683812/Terrance-West-leaps-over-the-pile-for-a-touchdown",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683812_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683812_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683812_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683812_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683812_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "nfl-preseason",
+          "channelName": "Preseason"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "eventCodes": [
+        {
+          "code": "pre-season",
+          "decode": "Preseason"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 2543664,
+          "status": "ACT",
+          "displayName": "Terrance West",
+          "firstName": "Terrance",
+          "lastName": "West",
+          "esbId": "WES395447",
+          "gsisId": "00-0031375"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Terrance West",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "entitlement": "FREE",
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160911_Ravens_West_Leap_Touchdown_567961_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683799",
+      "playId": 729,
+      "originalPublishDate": 1470961140000,
+      "modifiedDate": 1470961912000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:08:11",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Ravens Terrance West jukes his way through defenders for a first down",
+      "contentCategory": null,
+      "headline": "Ravens Terrance West jukes his way through defenders for a first down",
+      "caption": "Ravens Terrance West jukes his way through defenders for a first down.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683799/Ravens-Terrance-West-jukes-his-way-through-defenders-for-a-first-down",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683799_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683799_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683799_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683799_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683799_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "nfl-preseason",
+          "channelName": "Preseason"
+        },
+        {
+          "channelId": "baltimore-ravens",
+          "channelName": "Baltimore Ravens"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0325",
+          "abbr": "BAL",
+          "cityState": "Baltimore",
+          "fullName": "Baltimore Ravens",
+          "nick": "Ravens",
+          "teamType": "TEAM",
+          "conferenceAbbr": "AFC",
+          "divisionAbbr": "ACN"
+        }
+      ],
+      "eventCodes": [
+        {
+          "code": "pre-season",
+          "decode": "Preseason"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 2543664,
+          "status": "ACT",
+          "displayName": "Terrance West",
+          "firstName": "Terrance",
+          "lastName": "West",
+          "esbId": "WES395447",
+          "gsisId": "00-0031375"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Terrance West",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "entitlement": "FREE",
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_Ravens_West_First_Down_567963_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    },
+    {
+      "contentType": "VIDEO",
+      "id": "0ap3000000683785",
+      "playId": 775,
+      "originalPublishDate": 1470960660000,
+      "modifiedDate": 1471012079000,
+      "status": "ACTIVE",
+      "seasonType": "PRE",
+      "season": 2016,
+      "week": 1,
+      "show": "nflcom",
+      "clipType": "in-game-highlight",
+      "runTime": "00:00:14:23",
+      "views": 0,
+      "live": false,
+      "invalidForMobile": false,
+      "commentable": true,
+      "recommendable": true,
+      "briefHeadline": "Derek Anderson connects with Funchess for a 10-yard touchdown",
+      "contentCategory": null,
+      "headline": "Panthers Derek Anderson connects with Devin Funchess for a 10-yard touchdown",
+      "caption": "Panthers Derek Anderson connects with Devin Funchess for a 10 yard touchdown.",
+      "availableAsHd": false,
+      "videoDetailPageUrl": "http://www.nfl.com/videos/nfl-game-highlights/0ap3000000683785/Derek-Anderson-connects-with-Funchess-for-a-10-yard-touchdown",
+      "videoFileUrl": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_700k.mp4",
+      "xSmallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683785_video_thumbnail_60_45.jpg",
+      "smallImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683785_video_thumbnail_80_60.jpg",
+      "mediumImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683785_video_rhr_210.jpg",
+      "largeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683785_video_cp.jpg",
+      "xLargeImageUrl": "http://static.nfl.com/static/content/public/video/2016/08/11/0ap3000000683785_video_player_cp.jpg",
+      "tags": null,
+      "source": "NFL.com",
+      "primaryVideoChannel": {
+        "channelId": "nfl-game-highlights",
+        "channelName": "Game Highlights"
+      },
+      "videoBitRates": [
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_500k.mp4",
+          "bitrate": 500000
+        },
+        {
+          "videoPath": "http://video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_700k.mp4",
+          "bitrate": 700000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_1200k.mp4",
+          "bitrate": 1200000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_2000k.mp4",
+          "bitrate": 2000000
+        },
+        {
+          "videoPath": "http://a.video.nfl.com/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_3200k.mp4",
+          "bitrate": 3000000
+        }
+      ],
+      "videoChannels": [
+        {
+          "channelId": "nfl-game-highlights",
+          "channelName": "Game Highlights"
+        },
+        {
+          "channelId": "nfl-preseason",
+          "channelName": "Preseason"
+        },
+        {
+          "channelId": "carolina-panthers",
+          "channelName": "Carolina Panthers"
+        }
+      ],
+      "teams": [
+        {
+          "season": 2016,
+          "teamId": "0750",
+          "abbr": "CAR",
+          "cityState": "Carolina",
+          "fullName": "Carolina Panthers",
+          "nick": "Panthers",
+          "teamType": "TEAM",
+          "conferenceAbbr": "NFC",
+          "divisionAbbr": "NCS"
+        }
+      ],
+      "eventCodes": [
+        {
+          "code": "pre-season",
+          "decode": "Preseason"
+        }
+      ],
+      "gameSchedules": [
+        {
+          "season": 2016,
+          "seasonType": "PRE",
+          "week": 1,
+          "gameId": 2016081153,
+          "gameKey": 56838,
+          "gameDate": "08/11/2016",
+          "gameTimeEastern": "19:30:00",
+          "gameTimeLocal": "19:30:00",
+          "isoTime": 1470958200000,
+          "homeTeamId": "0325",
+          "visitorTeamId": "0750",
+          "homeTeamAbbr": "BAL",
+          "visitorTeamAbbr": "CAR",
+          "homeDisplayName": "Baltimore Ravens",
+          "visitorDisplayName": "Carolina Panthers",
+          "homeNickname": "Ravens",
+          "visitorNickname": "Panthers",
+          "gameType": "PRE",
+          "visitorTeam": {
+            "season": 2016,
+            "teamId": "0750",
+            "abbr": "CAR",
+            "cityState": "Carolina",
+            "fullName": "Carolina Panthers",
+            "nick": "Panthers",
+            "teamType": "TEAM",
+            "conferenceAbbr": "NFC",
+            "divisionAbbr": "NCS"
+          },
+          "homeTeam": {
+            "season": 2016,
+            "teamId": "0325",
+            "abbr": "BAL",
+            "cityState": "Baltimore",
+            "fullName": "Baltimore Ravens",
+            "nick": "Ravens",
+            "teamType": "TEAM",
+            "conferenceAbbr": "AFC",
+            "divisionAbbr": "ACN"
+          },
+          "site": {
+            "siteId": 3695,
+            "siteCity": "Baltimore",
+            "siteFullname": "M&T Bank Stadium",
+            "siteState": "MD",
+            "roofType": "OUTDOOR"
+          }
+        }
+      ],
+      "players": [
+        {
+          "nflId": 2552458,
+          "status": "ACT",
+          "displayName": "Devin Funchess",
+          "firstName": "Devin",
+          "lastName": "Funchess",
+          "esbId": "FUN405541",
+          "gsisId": "00-0032055"
+        },
+        {
+          "nflId": 2506546,
+          "status": "ACT",
+          "displayName": "Derek Anderson",
+          "firstName": "Derek",
+          "lastName": "Anderson",
+          "esbId": "AND180512",
+          "gsisId": "00-0023645"
+        }
+      ],
+      "weight": 0,
+      "contentTags": [
+        {
+          "contentId": null,
+          "contentTag": "Devin Funchess",
+          "position": null
+        },
+        {
+          "contentId": null,
+          "contentTag": "syndicated partners",
+          "position": null
+        },
+        {
+          "contentId": null,
+          "contentTag": "Derek Anderson",
+          "position": null
+        }
+      ],
+      "closedCaptionFileUrl": null,
+      "entitlement": "FREE",
+      "videoPlayBackUrl": "http://fvodhstream-vh.akamaihd.net/i/films/2016/NFL_COM/in-game-highlight/NFLCOM/PRE/1/160811_BP_CAR_Anderson_Funchess_Touchdown_567946_,500k,700k,1200k,2000k,3200k,.mp4.csmil/master.m3u8"
+    }
+  ]
+}
