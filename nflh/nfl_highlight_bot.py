@@ -1,6 +1,5 @@
-import games
-import videos
-from games import Game
+from nflh import games, videos
+from nflh.games import Game
 
 
 def get_highlight_list():
@@ -14,3 +13,6 @@ def get_highlight_list():
         highlights += videos.get_game_highlights(game)
 
     return highlights
+
+while True:
+    get_highlight_list()

@@ -1,6 +1,7 @@
-import urllib.request
 import json
-from games import Game
+import urllib.request
+
+from nflh.games import Game
 
 
 class Video:

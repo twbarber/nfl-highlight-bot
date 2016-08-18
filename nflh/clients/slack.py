@@ -1,10 +1,11 @@
 import os
+import random
 import time
+
 from slackclient import SlackClient
 
-from nfl_highlight_bot import get_highlight_list
-from videos import Video
-import random
+from nflh.nfl_highlight_bot import get_highlight_list
+from nflh.videos import Video
 
 """
 Base logic taken from https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
