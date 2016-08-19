@@ -20,15 +20,22 @@ class GameCenterDaemon:
             games[eid] = Game(eid, game.get("h"), game.get("v"))
         return games
 
+    def check_game_for_update(self, game: Game):
+        return True
+
     def check_games_for_updates(self):
+        i = 0
         for game in self.active_games:
-            _thread.start_new_thread()
+            _thread.start_new_thread(self.check_game_for_update, (game, ))
+            i += 1
+        return
 
     @staticmethod
     def is_remote_url(url: str):
         return url.startswith("http://")
 
     def get_game_index_xml(self):
+        response_xml = ""
         if self.is_remote_url(self.index):
             try:
                 response_xml = urllib.request.urlopen(self.index).read()

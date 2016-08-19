@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 
 GAME_VIDEO_BASE_URL = "http://www.nfl.com/feeds-rs/videos/byGameCenter/{0}.json"
 LIVE_UPDATE_BASE_URL = "http://www.nfl.com/liveupdate/game-center/{0}/{0}_gtd.json"
@@ -11,6 +11,8 @@ class Game(object):
         self.date = self.id_[:-2]
         self.home = h
         self.vis = v
+        self.latest_play_id = ""
+        self.latest_clip_id = ""
 
     def is_today(self):
         return self.date == str((datetime.today()).strftime('%Y%m%d'))

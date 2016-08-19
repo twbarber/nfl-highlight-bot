@@ -14,18 +14,16 @@ class Video:
     def __str__(self):
         return self.id_ + " - " + self.desc + "\n" + self.url
 
+    def get_highest_bit_rate_clip(self, clips):
+        bit_rated = sorted(clips["videoBitRates"], key=lambda video: video["bitrate"], reverse=True)
+        return bit_rated[0]["videoPath"]
 
-def get_highest_bit_rate_clip(clips):
-    bit_rated = sorted(clips["videoBitRates"], key=lambda video: video["bitrate"], reverse=True)
-    return bit_rated[0]["videoPath"]
-
-
-def get_game_highlights(match: Game):
-    highlights = []
-    response = urllib.request.urlopen(match.game_center_url())
-    string = response.read().decode('utf-8')
-    data = json.loads(string)
-    in_game_highlights = filter(lambda x: x["clipType"] == "in-game-highlight", data["videos"])
-    for video in in_game_highlights:
-        highlights.append(Video(video["id"], video["headline"], get_highest_bit_rate_clip(video)))
-    return highlights
+    def get_game_highlights(self, game: Game):
+        highlights = []
+        response = urllib.request.urlopen(game.game_center_url())
+        string = response.read().decode('utf-8')
+        data = json.loads(string)
+        in_game_highlights = filter(lambda x: x["clipType"] == "in-game-highlight", data["videos"])
+        for video in in_game_highlights:
+            highlights.append(Video(video["id"], video["headline"], self.get_highest_bit_rate_clip(video)))
+        return highlights

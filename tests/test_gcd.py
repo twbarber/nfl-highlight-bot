@@ -20,5 +20,10 @@ class GameCenterDaemonTest(unittest.TestCase):
         test = GameCenterDaemon(local_index)
         self.assertEqual(local_game_eids, set(test.get_active_games().keys()))
 
+    def test_check_game_updates_populates_active_games(self):
+        local_index = "../data/ss.xml"
+        test = GameCenterDaemon(local_index)
+        test.check_games_for_updates()
+
 if __name__ == '__main__':
     unittest.main()
