@@ -13,6 +13,7 @@ class Game(object):
         self.vis = v
         self.latest_play_id = ""
         self.latest_clip_id = ""
+        self.videos = {}
 
     def is_today(self):
         return self.date == str((datetime.today()).strftime('%Y%m%d'))
